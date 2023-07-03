@@ -1,1 +1,1 @@
-#Fictional School Profile for Uni Project
+Fictional School Profile for Uni Project
